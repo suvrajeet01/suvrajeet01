@@ -14,8 +14,9 @@
 <br>
 <br>
 
-### > * **Command Line Instructions**
+> ### + **Command Line Instructions**
 > > Files from local repository can be uploaded to remote repository from **VCS** services provides like ' Github, Gitlab, etc ' using the instructions below : -
+
 <br>
 <br>
 
