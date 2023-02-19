@@ -3,14 +3,13 @@
 * 🌱 I’m currently learning Blockchain
 * 💞️ I’m looking to collaborate on Blockchain Projects
 * 📫 Reach me @twitter - suvrajeetb
-*  ![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg) Linkedin - https://www.linkedin.com/in/suvrajeetbanerjee/
+*  ![Linkedin](https://user-images.githubusercontent.com/48400198/219973632-ed62f7e6-d67b-4c5e-90e2-d10069193ff0.png) Linkedin - https://www.linkedin.com/in/suvrajeetbanerjee/
 
 
 
 
 
 # **_Git Essentials_**
-
 <br>
 
 >
