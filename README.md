@@ -9,7 +9,7 @@
 
 
 
-# ** _Git Essentials_ **
+# **_Git Essentials_**
 
 <br>
 <br>
