@@ -3,17 +3,19 @@
 * 🌱 I’m currently learning Blockchain
 * 💞️ I’m looking to collaborate on Blockchain Projects
 * 📫 Reach me @twitter - suvrajeetb
-*  ![Linkedin](https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo)  Linkedin - https://www.linkedin.com/in/suvrajeetbanerjee/
+*  ![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg) Linkedin - https://www.linkedin.com/in/suvrajeetbanerjee/
 
 
 
 
 
 # **_Git Essentials_**
+
 <br>
+
 >
 > * ### **Command Line Instructions**
-> > Files from local repository can be uploaded to remote repository from **VCS** services provides like ' Github, Gitlab, etc ' using the instructions below : -
+>> * Files from local repository can be uploaded to remote repository from **VCS** services provides like ' Github, Gitlab, etc ' using the instructions below : -
 
 <br>
 <br>
