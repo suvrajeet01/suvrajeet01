@@ -18,9 +18,10 @@
 
 > #### 1. **Git Global Setup**
 
-*
+* 
 ```git config --global user.name "github/gitlab-username"```
-*
+<br>
+* 
 ```git config --global user.email "github/gitlab-registered-email-address"```
 
 
