@@ -64,11 +64,11 @@ git push -u origin master
 
 ```
 
+git init
+
 git remote add origin https://github.com/username/repo-name.git
 
 echo "# echo-text" >> README.md
-
-git init
 
 git add README.md
 
