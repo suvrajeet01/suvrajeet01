@@ -17,12 +17,13 @@
 <br>
 
 > #### 1. **Git Global Setup**
+ 
+```
+git config --global user.name "github/gitlab-username"
 
-* 
-```git config --global user.name "github/gitlab-username"```
-<br>
-* 
-```git config --global user.email "github/gitlab-registered-email-address"```
+git config --global user.email "github/gitlab-registered-email-address"
+
+```
 
 
 <br>
