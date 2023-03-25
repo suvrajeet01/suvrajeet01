@@ -11,12 +11,15 @@
 
 >
 > * ### **Command Line Instructions**
->> * Files from local repository can be uploaded to remote repository from **VCS** services provides like ' Github, Gitlab, etc ' using the instructions below : -
+>> * Gitpod can also be used as an alternate way instead of using local machine to work on files and hence finally upload them to a VCS service provider.
+>> > * Step A may not be required in this case
+>> * Commands to upload files from local repository to remote repository from **VCS** services provides like ' Github, Gitlab, etc ' : -
+
 
 <br>
 <br>
 
-> #### 1. **Git Global Setup**
+> ## A. **Git Global Setup**
  
 ```
 
@@ -29,7 +32,7 @@ git config --global user.email "github/gitlab-registered-email-address"
 
 <br>
 
-> #### 2. **Create a new repository**
+> ## B.1 **Create a new repository**
 
 ```
 
@@ -59,8 +62,8 @@ git push -u origin master
 
 <br>
 
-> #### **OR**
-> #### 2.1. **Create a new repository on the command line**
+[]: > ### **OR**
+> ## B.2. **Create a new repository on the command line**
 
 ```
 
@@ -82,8 +85,30 @@ git push -u origin trunk
 
 <br>
 
-> #### **OR**
-> #### 2.2. **Push an existing repository from the command line**
+[]: > ### **OR**
+> ## B.3. **Push a Local repo *WHILE* local repo != existing remote repo**
+
+```
+
+git init
+
+git remote add origin https://github.com/username/repo-name.git
+
+git add .
+
+git commit -m "commit-message"
+
+git branch -M trunk
+
+git pull https://github.com/username/repo-name.git --allow-unrelated-histories
+
+git push -u origin trunk
+
+```
+
+<br>
+
+> ## B.4. **Push an existing repository from the command line**
 
 ```
 
