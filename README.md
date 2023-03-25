@@ -62,7 +62,7 @@ git push -u origin master
 
 <br>
 
-[]: > ### **OR**
+<!--- [comment]: <> > ### **OR** -->
 > ## B.2. **Create a new repository on the command line**
 
 ```
@@ -85,7 +85,7 @@ git push -u origin trunk
 
 <br>
 
-[]: > ### **OR**
+<!--- []: > ### **OR** -->
 > ## B.3. **Push a Local repo *WHILE* local repo != existing remote repo**
 
 ```
