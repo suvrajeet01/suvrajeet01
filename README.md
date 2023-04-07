@@ -1,10 +1,12 @@
 * 👋 Hi, I’m Suvrajeet
 * 👀 I’m interested in Blockchain
-* 🌱 I’m currently learning Blockchain                                            ![visitors](https://visitor-badge.laobi.icu/badge?page_id=suvrajeet01.suvrajeet01)
+* 🌱 I’m currently learning Blockchain                                            
 * 💞️ I’m looking to collaborate on Blockchain Projects
 * 📫 Reach me @twitter - suvrajeetb
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=suvrajeet01.suvrajeet01)
 
 # **_Git Essentials_**
 <br>
